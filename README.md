@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=investorphem)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=investorphem)](https://github.com/investorphem/github-readme-stats)
 
 # 👋 Hi, I’m Oluwafemi — On-Chain Builder & Web3 Developer
 
