@@ -33,7 +33,8 @@ I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, *
 | **Stacks Pay SDK** | On-chain payroll & salary streaming | [npm](https://www.npmjs.com/package/stacks-pay-sdk) ![npm](https://img.shields.io/npm/v/stacks-pay-sdk) |
 | **STX Portfolio SDK** | Track Stacks portfolios, NFTs, and DeFi positions | [npm](https://www.npmjs.com/package/stx-portfolio-sdk) ![npm](https://img.shields.io/npm/v/stx-portfolio-sdk) |
 | **STX DeFi Activity SDK** | Real-time DeFi and wallet analytics | [npm](https://www.npmjs.com/package/stx-defi-activity-sdk) ![npm](https://img.shields.io/npm/v/stx-defi-activity-sdk) |
-| **Hashlock-L** | Lock/claim contracts for tokens | [npm](https://www.npmjs.com/package/hashlock-l) ![npm](https://img.shields.io/npm/v/hashlock-l) |
+| **hashlock-lending-sdk** | Lock/claim contracts for tokens | [npm](https://www.npmjs.com/package/hashlock-lending-sdk) ![npm](https://img.shields.io/npm/v/hashlock-lending-sdk) |
+| **stx-vault-sdk** | STX vaults and time-lock applications | [npm](https://www.npmjs.com/package/stx-vault-sdk) ![npm](https://img.shields.io/npm/v/stx-vault-sdk) |
 | **Contributors & Leaders Dashboards** | Analytics dashboards for Stacks projects | [GitHub](https://github.com/investorphem) |
 | **Token Discovery Tools** | Auto-detect ERC-20s with price & charts | [GitHub](https://github.com/investorphem) |
 | **Message Signer App** | Web signing & wallet connection | [GitHub](https://github.com/investorphem) |
