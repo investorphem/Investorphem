@@ -1,11 +1,16 @@
-[![Oluwafemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=investorphem)](https://github.com/anuraghazra/github-readme-stats)
+[![Oluwafemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=investorphem)](https://github.com/investorphem)
+[![npm](https://img.shields.io/npm/v/sbtc-payment-sdk)](https://www.npmjs.com/package/sbtc-payment-sdk)
+[![npm](https://img.shields.io/npm/v/stx-portfolio-sdk)](https://www.npmjs.com/package/stx-portfolio-sdk)
+[![npm](https://img.shields.io/npm/v/stx-defi-activity-sdk)](https://www.npmjs.com/package/stx-defi-activity-sdk)
+[![npm](https://img.shields.io/npm/v/stacks-pay-sdk)](https://www.npmjs.com/package/stacks-pay-sdk)
+[![npm](https://img.shields.io/npm/v/hashlock-l)](https://www.npmjs.com/package/hashlock-l)
 
 # 👋 Hi, I’m Oluwafemi — On-Chain Builder & Web3 Developer
 
 I’m a blockchain developer passionate about building open, permissionless, and composable tools across multiple chains. My work focuses on creating real, functional on-chain products that solve problems around identity, tokens, payments, and user experience.
 
 ## 🚀 What I Build
-I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, and other EVM chains. My projects typically involve:
+I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, **Celo**, and other EVM chains. My projects typically involve:
 
 - **Dapps with full wallet integration** (EVM & non-EVM)
 - **Smart contract interactions** for tokens, signing, authentication, and tracking
@@ -17,26 +22,36 @@ I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, a
 - **Ethereum** — contracts, dapps, tooling  
 - **Base** — L2-native apps, memes, growth dashboards  
 - **Stacks** — Bitcoin-secured apps, STX Vaults, BTC-backed savings  
+- **Celo** — stablecoin and payments tooling  
 - **Other EVM chains** — cross-chain features and integrations
 
-## 📦 Projects I’ve Worked On
-- **STX Bitcoin-Backed Vault** — a Bitcoin-anchored savings vault powered by Stacks  
-- **Contributors & Leaders Dashboard** for Stacks projects  
-- **Token Discovery Tools** — auto-detect ERC-20s, show price + charts  
-- **Message Signer App** — web signing + wallet connection  
-- **Batch Token Sender** — optimized on-chain multi-send system  
-- **Base chain dashboard tools** for user growth, analytics, and social proof  
+## 📦 Projects I’ve Developed
 
-## 🛠️ What I Use
+| Project | Description | Badge & Link |
+|---------|------------|--------------|
+| **SBTC Payment SDK** | Accept sBTC and STX payments on Stacks | [npm](https://www.npmjs.com/package/sbtc-payment-sdk) ![npm](https://img.shields.io/npm/v/sbtc-payment-sdk) |
+| **Stacks Pay SDK** | On-chain payroll & salary streaming | [npm](https://www.npmjs.com/package/stacks-pay-sdk) ![npm](https://img.shields.io/npm/v/stacks-pay-sdk) |
+| **STX Portfolio SDK** | Track Stacks portfolios, NFTs, and DeFi positions | [npm](https://www.npmjs.com/package/stx-portfolio-sdk) ![npm](https://img.shields.io/npm/v/stx-portfolio-sdk) |
+| **STX DeFi Activity SDK** | Real-time DeFi and wallet analytics | [npm](https://www.npmjs.com/package/stx-defi-activity-sdk) ![npm](https://img.shields.io/npm/v/stx-defi-activity-sdk) |
+| **Hashlock-L** | Lock/claim contracts for tokens | [npm](https://www.npmjs.com/package/hashlock-l) ![npm](https://img.shields.io/npm/v/hashlock-l) |
+| **Contributors & Leaders Dashboards** | Analytics dashboards for Stacks projects | [GitHub](https://github.com/investorphem) |
+| **Token Discovery Tools** | Auto-detect ERC-20s with price & charts | [GitHub](https://github.com/investorphem) |
+| **Message Signer App** | Web signing & wallet connection | [GitHub](https://github.com/investorphem) |
+| **Batch Token Sender** | Optimized multi-send system | [GitHub](https://github.com/investorphem) |
+| **Base Chain Dashboard Tools** | User growth, analytics, and social proof | [GitHub](https://github.com/investorphem) |
+| **Celo Projects** | Stablecoin & payments tooling | [GitHub](https://github.com/investorphem) |
+
+## 🛠️ Tech Stack
 - **Next.js / React / Remix**
 - **TailwindCSS**
 - **Ethers.js / Viem / Web3.js**
 - **Stacks.js / Hiro APIs**
 - **Alchemy, Infura, QuickNode**
+- **Celo SDKs**
 - **Redis caching & server-side fetch optimization**
 
-## 🧠 What Drives Me
+## 🧠 My Philosophy
 I build because I believe on-chain systems should be **simple, transparent, and accessible**—especially for users in emerging markets. My mission is to turn complex blockchain functionality into smooth, reliable products anyone can use.
 
 ## 🌍 Let’s Collaborate
-If you’re building something onchain and need a developer who understands **multi-chain architecture, UI/UX, smart contract flows, and crypto-native user behavior**, I’m open to collaboration or contributions.
+If you’re building something on-chain and need a developer who understands **multi-chain architecture, UI/UX, smart contract flows, and crypto-native user behavior**, I’m open to collaboration or contributions.
