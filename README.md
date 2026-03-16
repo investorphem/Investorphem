@@ -45,8 +45,8 @@ I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, *
 ## 🛠️ Tech Stack
 - **Next.js / React / Remix**
 - **TailwindCSS**
-- **Solidity
-- **Typescript 
+- **Solidity**
+- **Typescript**
 - **Ethers.js / Viem / Web3.js**
 - **Stacks.js / Hiro APIs**
 - **Alchemy, Infura, QuickNode**
