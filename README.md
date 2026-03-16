@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/stx-portfolio-sdk)](https://www.npmjs.com/package/stx-portfolio-sdk)
 [![npm](https://img.shields.io/npm/v/stx-defi-activity-sdk)](https://www.npmjs.com/package/stx-defi-activity-sdk)
 [![npm](https://img.shields.io/npm/v/stacks-pay-sdk)](https://www.npmjs.com/package/stacks-pay-sdk)
-[![npm](https://img.shields.io/npm/v/hashlock-l)](https://www.npmjs.com/package/hashlock-l)
+[![npm](https://img.shields.io/npm/v/hashlock-l)](https://www.npmjs.com/package/hashlock-lending-sdk)
 
 # 👋 Hi, I’m Oluwafemi — On-Chain Builder & Web3 Developer
 
@@ -45,6 +45,8 @@ I work across several ecosystems including **Ethereum**, **Base**, **Stacks**, *
 ## 🛠️ Tech Stack
 - **Next.js / React / Remix**
 - **TailwindCSS**
+- **Solidity
+- **Typescript 
 - **Ethers.js / Viem / Web3.js**
 - **Stacks.js / Hiro APIs**
 - **Alchemy, Infura, QuickNode**
